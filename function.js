@@ -422,6 +422,24 @@
 // 31) Somma dei numeri fino a n
 // Scrivi una funzione sommaFinoAN(n) che restituisce la somma dei numeri da 1 a n.
 // sommaFinoAN(5) -> 1 + 2 + 3 + 4 + 5 -> 15
+
+function sommaFinoAN(n) {
+    let somma = 0;  
+    for (let i = 1; i <= n; i++) {
+        somma += i;
+    }
+    return somma;
+}
+const risultatoSommaFinoAN = sommaFinoAN(7);
+console.log(risultatoSommaFinoAN);
+
+
+
+
+
+
+
+
 // 32) Conteggio cifre
 // Scrivi una funzione contaCifre(num) che restituisce il numero di cifre di un numero
 // contaCifre(5) -> 1
