@@ -668,7 +668,7 @@
 // const risultatoFindMinimum = findMinimum([34, 12, 5, 67, 23]);
 // console.log(risultatoFindMinimum);
 
-// // 44) Reverse Array with a Loop
+// 44) Reverse Array with a Loop
 // // Write a function reverseArray(array) that returns a new array with the elements in reverse order.
 
 // function reverseArray(array) {
@@ -678,8 +678,8 @@
 //     }
 //     return reversedArray;
 // }
-// const risultatoReverseArray = reverseArray([1, 2, 3, 4, 5]);
-// console.log(risultatoReverseArray);
+// const resultReverseArray = reverseArray([1, 2, 3, 4, 5]);
+// console.log(resultReverseArray);
 
 // // 45) Maiuscolo Tutte le Parole
 // // Scrivi una funzione maiuscoloTutto(array) che restituisce un nuovo array con tutte le stringhe in maiuscolo.
