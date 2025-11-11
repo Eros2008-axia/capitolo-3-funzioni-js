@@ -1,4 +1,4 @@
-let numbers = [24, 56, 23, 65, 26, 43, 97, 12, 78, 34, 89, 11];
+// let numbers = [24, 56, 23, 65, 26, 43, 97, 12, 78, 34, 89, 11];
 
 
 
@@ -61,4 +61,11 @@ let numbers = [24, 56, 23, 65, 26, 43, 97, 12, 78, 34, 89, 11];
 
 // const resultSumEven = sumEven([5, 20, 43, 93, 15, 32]);
 // console.log(resultSumEven);
+
+////////////////////////////////////////////////
+
+///RISOLVERE GLI ESERCIZI IN 3 MODI
+//-senza high order functions
+//-con le HOF Create da noi
+//-con le HOF native di JS
 

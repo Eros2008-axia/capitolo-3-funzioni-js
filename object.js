@@ -54,24 +54,24 @@
 // }
 
 
-//FOR IN
+// //FOR IN
 
-const ariel = {
-    name: 'Ariello',
-    age: 4,
-race: 'border collie',
-type : 'dog'
-};
+// const ariel = {
+//     name: 'Ariello',
+//     age: 4,
+// race: 'border collie',
+// type : 'dog'
+// };
 
-for (const key in ariel) {
-    const value = ariel[key];
-    console.log( key + ':' + value);
-}
+// for (const key in ariel) {
+//     const value = ariel[key];
+//     console.log( key + ':' + value);
+// }
 
 
-//JSON (JavaScript Object Notation)
+// //JSON (JavaScript Object Notation)
 
-arielString = JSON.stringify(ariel);
-console.log(arielString); 
+// arielString = JSON.stringify(ariel);
+// console.log(arielString); 
 
 
