@@ -1,4 +1,5 @@
-// let numbers = [24, 56, 23, 65, 26, 43, 97, 12, 78, 34, 89, 11];
+ let nbr = [24, 56, 23, 65, 26, 43, 97, 12, 78, 34, 89, 11];
+ let str = ['pippo', 'pluto', 'paperino', 'topolino', 'paperone', 'paperina'];
 
 
 
@@ -68,4 +69,30 @@
 //-senza high order functions
 //-con le HOF Create da noi
 //-con le HOF native di JS
+
+
+
+
+
+// function numberToHash(nbr) {
+//     if (nbr <= 0) {
+//         return '';
+//     }
+
+//     return '#'.repeat(nbr);
+
+// }
+
+// console.log(numberToHash(- 40));
+
+
+// function stringconcat(strArray) {
+//     let result = '';    
+//     for (let i = 0; i < strArray.length; i++) {
+//         const element = strArray[i];
+//         result += element;
+//     }
+//     return result;
+// }
+// console.log(stringconcat(str));    
 
